@@ -1,7 +1,7 @@
 body {
   font-family: "Indie Flower", cursive;
-  background-color: #f6eedf;
-  color: #f57b51;
+  background-color: #4d3e3e;
+  color: #ff926b;
 }
 .container {
   text-align: center;
@@ -10,7 +10,11 @@ body {
 }
 h1 {
   font-size: 8rem;
-  margin: 30px;
+  margin: 30px 30px 0 30px;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
 }
 p {
   font-size: 2rem;
@@ -22,9 +26,9 @@ p {
 img {
   width: 80%;
 }
-footer {
-  background-color: #d1cebd;
-  color: #f6eedf;
+.footer {
+  color: #fff3cd;
+
   margin-top: 5%;
   text-align: center;
 }
